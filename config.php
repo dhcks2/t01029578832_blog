@@ -33,7 +33,7 @@ function getRows($sql){
 }
 
 function execute($sql){
-		getRows($sql);
+		getRows($sql);     
 }
 
 ?>
