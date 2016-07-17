@@ -30,10 +30,10 @@ function getRows($sql){
 	}
 
 	return $rows;
-}
+} 
 
 function execute($sql){
-		getRows($sql);     
+		getRows($sql);		
 }
 
 ?>
